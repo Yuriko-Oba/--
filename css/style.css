@@ -321,7 +321,7 @@
 
     .main-visual-container {
         height: 100vh;
-        background: url(/images/mv-bg@2x.jpg) no-repeat center center;
+        background: url(../images/mv-bg@2x.jpg) no-repeat center center;
         background-size: cover;
         position: relative; /*相対的*/
         display: flex;
@@ -383,7 +383,7 @@
         flex-basis: 50%;
         list-style-type: none;
     }
-    
+
     .back-date,
     .back-number {
         font-size: 10px;
